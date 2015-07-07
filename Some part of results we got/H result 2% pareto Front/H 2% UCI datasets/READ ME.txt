@@ -1,0 +1,3 @@
+xaccuracy -> accuracy for dataset x
+xcost -> cost for dataset x
+

@@ -1,0 +1,3 @@
+cost X -> cost with x=(1-tolerance parameter)
+error X -> error with x=(1-tolerance parameter)
+usage X -> usage of each sensor with x=(1-tolerance parameter)
