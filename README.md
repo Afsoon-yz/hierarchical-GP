@@ -1,7 +1,8 @@
 # hierarchical-GP
 The code and data for hierarchical and non-hierarchical GP
 
-This repository contains all the material to replicate the results provided in paper "A Genetic Programming Approach to Cost-Sensitive Control in Resource Constrained Sensor Systems" poblished in GECCO ’15, July 11 - 15, 2015, Madrid, Spain.
+This repository contains all the material to replicate the results provided in paper "A Genetic Programming Approach to Cost-Sensitive Control in Resource Constrained Sensor Systems" poblished in GECCO ’15, July 11 - 15, 2015, Madrid, Spain. The presentation video in that conference could be found in :
+https://www.youtube.com/watch?v=lJG_lcxqPMU
 
 There are four folders and two code files in this repository:
 
